@@ -1,0 +1,12 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<body>
+<head>
+    <script>
+        var postslen = {{site.posts | size}} - 1;
+        window.location.replace('/' + (Math.floor(Math.random() * postslen + 1)));
+    </script>
+</head>
+</body>

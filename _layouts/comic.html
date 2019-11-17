@@ -1,0 +1,4 @@
+{%capture headjs %}{% if page.id == site.posts[0].id %}<script>
+    window.location.replace('/');
+</script>{%endif%}{%endcapture%}
+{% include full_comic.html post=page head=headjs %}
