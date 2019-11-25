@@ -10,3 +10,5 @@ baseurl: ""
 permalink: /:title/
 # Build settings
 markdown: kramdown
+
+include: ["_redirects"]
