@@ -1,0 +1,7 @@
+# Redirect non-primary domains to main domain
+
+# Redirect domain aliases to primary domain
+https://pb.taniwritescode.dev/* https://philosophybear.net/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://philosophy-bear.netlify.com/* https://philosophybear.net/:splat 301!
