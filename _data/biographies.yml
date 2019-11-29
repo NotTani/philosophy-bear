@@ -1,13 +1,18 @@
 - name: IHP
-  img: "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Umbrella-Cockatoo-300x300.jpg"
+  shortline: Artist & Writer
+  img: "/imgs/artists/IHP.PNG"
   bio: >
-    IHP is the artist of Philosophy Bear, as well as a writer.
-    They are in 7th Grade and a bird enthusiast.
+    IHP is a seventh-grade artist, writer and parrot enthusiast.
+    They would tell you not to listen to all the strange and elusive rumors about them,
+    and that they are <b>definetly</b> not a moluccan cockatoo in disguise.
 - name: TNK
-  img: "http://placekitten.com/200/200?image=14"
+  shortline: Webmaster & Writer
+  img: "/imgs/artists/TNK.PNG"
   bio: >
-    TNK is the webmaster of this website, as well as a writer.
-    He is in 7th Grade and a amateur composer.
+    TNK is a composer, CS devotte and an (mediocre) chef. He made this website,
+    and writes some of the comics on it. The universe is vast and pointless,
+    so why not have some fun?
 - name: PGW
-  img: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d33e507-33d0-4525-ae07-8b4da89c2849/dcfhkaa-6133eab8-2f0b-4898-bbbf-b03a7b4ea7ba.png/v1/fill/w_1600,h_1600,strp/wings_of_fire___blue_by_biohazardia_dcfhkaa-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcLzRkMzNlNTA3LTMzZDAtNDUyNS1hZTA3LThiNGRhODljMjg0OVwvZGNmaGthYS02MTMzZWFiOC0yZjBiLTQ4OTgtYmJiZi1iMDNhN2I0ZWE3YmEucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.iEeAXJyYcXPWlWS_TaD7WPaUl1tmXpmOkRFp_u0IhWI"
+  shortline: Writer
+  img: "/imgs/artists/PGW.PNG"
   bio: PGW is a writer for Philosophy Bear. She is in 7th Grade.
