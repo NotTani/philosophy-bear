@@ -1,0 +1,11 @@
+{% for person in site.data.biographies %}
+  <div class="row">
+    <div class="col sm-12 md-4">
+      <img src="{{ person.img }}" class="circle" style="width: 100%;">
+      </div>
+    <div class="col sm-12 md-8">
+      <h1>{{person.name}}</h1>
+      <p>{{person.bio}}</p>
+      </div>
+  </div>
+{% endfor %}
