@@ -1,18 +1,23 @@
 - name: IHP
   shortline: Artist & Writer
-  img: "/imgs/artists/IHP.PNG"
+  img: "/imgs/artists/IHP.png"
   bio: >
     IHP is a seventh-grade artist, writer and parrot enthusiast.
     They would tell you not to listen to all the strange and elusive rumors about them,
     and that they are <b>definetly</b> not a moluccan cockatoo in disguise.
 - name: TNK
   shortline: Webmaster & Writer
-  img: "/imgs/artists/TNK.PNG"
+  img: "/imgs/artists/TNK.png"
   bio: >
     TNK is a composer, CS devotee and an (mediocre) chef. He made this website,
     and writes some of the comics on it. The universe is vast and pointless,
     so why not have some fun?
 - name: PGW
   shortline: Writer
-  img: "/imgs/artists/PGW.PNG"
-  bio: "PGW is an aspiring author and singer who can make some <b>mean<\b> pancakes. One day, she wants to be the youngest middle-grade fiction author to publish a book. (Some 3-year-old published a book, so she’s going for the specific genre she writes.) She is *definitely* not a half-potato, half-unicorn that took the form of a human, and she is MOST CERTAINLY not a goddess. That would be silly."
+  img: "/imgs/artists/PGW.png"
+  bio: >
+    PGW is an aspiring author and singer who can make some <b>mean</b> pancakes.
+    One day, she wants to be the youngest middle-grade fiction author to publish a book.
+    (Some 3-year-old published a book, so she’s going for the specific genre she writes.) 
+    She is <b>definitely</b> not a half-potato, half-unicorn that took the form of a human, and she is MOST CERTAINLY not a goddess.
+    That would be silly.
