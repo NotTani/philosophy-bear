@@ -12,3 +12,4 @@ permalink: /:title/
 markdown: kramdown
 
 include: ["_redirects"]
+exclude: ["Gemfile","Gemfile.lock","README.md","LICENCE.md"]
