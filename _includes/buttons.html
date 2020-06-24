@@ -5,7 +5,7 @@
     {% else %}
         {% assign noprev = 1 %}
     {% endif %}
-          <a class="paper-btn btn-small margin-small" href="{% if noprev == 1 %}#{%else%}{{site.baseurl}}{{previous.url}}{% endif %}" title="Previous Post: {{previous.title}}">Previous</a>
+          <a class="paper-btn btn-small margin-small" href="{{site.baseurl}}{{previous.url}}" title="Previous Post: {{previous.title}}">Previous</a>
           <a class="paper-btn btn-small margin-small" href="/random/" title="Random Comic">Random</a>
     {% if include.post.next %}
         {% assign next = include.post.next %}
