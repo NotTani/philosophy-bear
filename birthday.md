@@ -4,6 +4,7 @@ title: Happy Birthday, Izzy!
 slogan: The Foremost Publication For MacOS Snow Leopard Enthusiasts!
 ---
 ## Birthday Cards
+#### From Tani:
 Dear Izzy,
 
 Happy birthday! It’s been so wonderful to be your friend for so many years! You are a very kind, enthusiastic, and funny
@@ -17,3 +18,6 @@ You are an brilliant and supportive person, and I'm so lucky to have you as my f
 See you in the space!
 
 Tani
+
+#### From Piper:
+*Happy borfdey, Izzeh! All hail the Monarch of Drawing Creepy Cattehs and also the Glow Cloud!* 
